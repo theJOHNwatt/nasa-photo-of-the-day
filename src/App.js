@@ -1,4 +1,5 @@
 import React from "react";
+import PhotoGrid from './components/grid';
 import "./App.css";
 
 function App() {
